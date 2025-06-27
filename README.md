@@ -6,7 +6,6 @@
 
 This project is a practical exploration of the multi-armed bandit problem, a classic reinforcement learning scenario that exemplifies the exploration-exploitation trade-off. The goal was to implement and compare several fundamental algorithms designed to maximize cumulative reward over time in the face of uncertainty.
 
-The project was completed over a period of three weeks, with each week focusing on a different foundational skill, culminating in the implementation and analysis of the RL agents.
 
 ---
 
